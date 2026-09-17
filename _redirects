@@ -1,0 +1,2 @@
+# Keep future client-side routes working after a direct page refresh.
+/* /index.html 200
